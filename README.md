@@ -51,7 +51,14 @@ Check our [deployed website](https://dev.telware.tech/)
 
 <br>
 <div style="display:flex; gap:10px;">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.styled-components.com%2Fatom.png&f=1&nofb=1&ipt=ba38d4aaad9b4c425d5302f85bdf90be9c1cb631efd11c1c799fa2cd51e5e257&ipo=images" width="120"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FM%2Fmsw-mock-service-worker-logo-88A2A26653-seeklogo.com.png&f=1&nofb=1&ipt=560d978968aeb5f957bb0e619f3e66cd7aeffe771905dbd00bb6229cd5ae8c49&ipo=images" width="120"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.404023256.1965%2Fst%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.u2.jpg&f=1&nofb=1&ipt=3d9c6ce894353db68934448e4c500d5bc86e40ee29d33a143c5b67d6cb82bfec&ipo=images" width="120"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ACh4yFP-3GEpweUbyMCWwQHaEK%26pid%3DApi&f=1&ipt=2111e425baa383224a53eca7c21eefb9336b20d7c3b750ee8fc2b9126088a42b&ipo=images" width="120">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.styled-components.com%2Fatom.png&f=1&nofb=1&ipt=ba38d4aaad9b4c425d5302f85bdf90be9c1cb631efd11c1c799fa2cd51e5e257&ipo=images" width="140" height="140">
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FM%2Fmsw-mock-service-worker-logo-88A2A26653-seeklogo.com.png&f=1&nofb=1&ipt=560d978968aeb5f957bb0e619f3e66cd7aeffe771905dbd00bb6229cd5ae8c49&ipo=images" width="140" height="140">
+
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fih1.redbubble.net%2Fimage.404023256.1965%2Fst%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.u2.jpg&f=1&nofb=1&ipt=3d9c6ce894353db68934448e4c500d5bc86e40ee29d33a143c5b67d6cb82bfec&ipo=images" width="140" height="140">
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ACh4yFP-3GEpweUbyMCWwQHaEK%26pid%3DApi&f=1&ipt=2111e425baa383224a53eca7c21eefb9336b20d7c3b750ee8fc2b9126088a42b&ipo=images" width="140" height="140">
 </div>
 </div>
 
